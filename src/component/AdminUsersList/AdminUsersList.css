@@ -1,0 +1,21 @@
+.username {
+  font-weight: normal;
+}
+
+.thead {
+  background-color: whitesmoke;
+}
+
+.title {
+  font-size: 25px;
+  margin: 10px;
+}
+
+.btn-delete {
+  background-color: lightpink;
+  margin-left: 10px;
+}
+
+.btn {
+  margin-right: 4px;
+}
